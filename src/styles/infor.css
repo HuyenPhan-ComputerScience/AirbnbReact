@@ -1,0 +1,16 @@
+
+.intro > img{
+    width: 40%;
+    height: 30%;
+    align-self: center;
+    margin-top: 5px;
+
+}
+.header{
+    text-align: left;
+    padding: 10px;
+    max-width: 600px;
+}
+.header>p{
+    font-size: 1.1rem;
+}
